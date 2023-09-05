@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+}
+
+p{
+    font-size: large;
+    text-align: justify;
+}
+ul{
+    font-size: large;
+}
+address{
+    font-size: large;
+}
+span{
+  margin: auto;
+  font-size: larger;
+  margin-left:200px;
+  
+  
+    
+
+}
+h1{
+    background-color:rgb(25, 0, 255);
+    padding:10px;
+    color:white;
+    margin: 0;
+    
+}
+h2{
+  color:rgb(25, 0, 255);
+}
+div{
+    background-color:rgb(230, 243, 250);
+    padding:10px;
+
+}
