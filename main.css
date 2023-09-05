@@ -7,10 +7,10 @@ p{
     text-align: justify;
 }
 ul{
-    font-size: large;
+    font-size:medium;
 }
 address{
-    font-size: large;
+    font-size: medium;
 }
 span{
   margin: auto;
@@ -29,10 +29,53 @@ h1{
     
 }
 h2{
-  color:rgb(25, 0, 255);
+  color:rgb(0, 153, 255);
 }
 div{
     background-color:rgb(230, 243, 250);
     padding:10px;
 
+}
+@media screen (max-width:640px){
+body { 
+        background-color:white;
+}
+
+p{
+    font-size: large;
+    text-align: justify;
+}
+ul{
+    font-size:medium;
+}
+address{
+    font-size: medium;
+}
+span{
+  margin: auto;
+  font-size: larger;
+  margin-left:200px;
+  
+  
+    
+
+}
+h1{
+    background-color:rgb(0, 153, 255);
+    padding:10px;
+    color:white;
+    margin: 0;
+    
+}
+h2{
+  color:rgb(0, 153, 255);
+}
+div{
+    background-color:rgb(230, 243, 250);
+    padding:10px;
+
+}
+    
+
+    
 }
