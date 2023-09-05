@@ -3,7 +3,7 @@ body{
 }
 
 p{
-    font-size: large;
+    font-size:medium;
     text-align: justify;
 }
 ul{
@@ -29,7 +29,7 @@ h1{
     
 }
 h2{
-  color:rgb(0, 153, 255);
+  color: black;
 }
 div{
     background-color:rgb(230, 243, 250);
@@ -42,7 +42,7 @@ body {
 }
 
 p{
-    font-size: large;
+    font-size: medium;
     text-align: justify;
 }
 ul{
@@ -68,7 +68,7 @@ h1{
     
 }
 h2{
-  color:rgb(0, 153, 255);
+  color:black;
 }
 div{
     background-color:rgb(230, 243, 250);
